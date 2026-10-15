@@ -1,0 +1,1 @@
+recursive-include helpdesk *.txt *.json *.js *.css *.html
