@@ -1,0 +1,1 @@
+recursive-include merp_sharepoint *.txt *.json *.js *.css *.html
